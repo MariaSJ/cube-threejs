@@ -1,2 +1,2 @@
 # cube-threejs
-My first threeJS 
+It's just a cube that spins jeje
